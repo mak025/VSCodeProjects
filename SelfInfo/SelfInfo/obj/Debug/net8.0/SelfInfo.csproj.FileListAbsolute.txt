@@ -1,0 +1,14 @@
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\bin\Debug\net8.0\SelfInfo.exe
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\bin\Debug\net8.0\SelfInfo.deps.json
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\bin\Debug\net8.0\SelfInfo.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\bin\Debug\net8.0\SelfInfo.dll
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\bin\Debug\net8.0\SelfInfo.pdb
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\obj\Debug\net8.0\SelfInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\obj\Debug\net8.0\SelfInfo.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\obj\Debug\net8.0\SelfInfo.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\obj\Debug\net8.0\SelfInfo.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\obj\Debug\net8.0\SelfInfo.dll
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\obj\Debug\net8.0\refint\SelfInfo.dll
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\obj\Debug\net8.0\SelfInfo.pdb
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\obj\Debug\net8.0\SelfInfo.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\SelfInfo\SelfInfo\obj\Debug\net8.0\ref\SelfInfo.dll
