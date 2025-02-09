@@ -1,10 +1,15 @@
+<<<<<<< HEAD
 ﻿using System.Globalization;
 
 namespace AgeCalculator
+=======
+﻿namespace AgeCalculator
+>>>>>>> origin/main
 {
     internal class Program
     {
         static void Main(string[] args)
+<<<<<<< HEAD
         {   //With aid from Rob
 
             //string dateString;
@@ -43,6 +48,15 @@ namespace AgeCalculator
             DateTime birthday = DateTime.ParseExact(currentDate, "dd-MM-yyyy", provider);
             TimeSpan difference = DateTime.Now - birthday;
             Console.WriteLine($"{difference}");
+=======
+        {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Task 7 Start");
+            Thread.Sleep(1000);
+            Console.ForegroundColor= ConsoleColor.White;
+            DateTime birthday = DateTime.ParseExact(readin, "ddMMyyyy", null);
+            Console.WriteLine($"{birthday}");
+>>>>>>> origin/main
         }
     }
 }
