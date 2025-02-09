@@ -8,7 +8,6 @@
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Task 6 Start");
             Thread.Sleep(2000);
-
             Console.WriteLine("Lotto trækning starter..");
             Console.ForegroundColor = ConsoleColor.Green;
             Thread.Sleep(2000);
@@ -50,7 +49,6 @@
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine($"{jokerNumber}");
             Console.ForegroundColor = ConsoleColor.Yellow;
-
         }
     }
 }
