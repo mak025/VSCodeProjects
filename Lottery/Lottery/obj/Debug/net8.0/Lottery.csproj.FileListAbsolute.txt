@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\bin\Debug\net8.0\Lottery.exe
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\bin\Debug\net8.0\Lottery.deps.json
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\bin\Debug\net8.0\Lottery.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\bin\Debug\net8.0\Lottery.dll
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\bin\Debug\net8.0\Lottery.pdb
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\Lottery.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\Lottery.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\Lottery.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\Lottery.dll
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\refint\Lottery.dll
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\Lottery.pdb
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\Lottery.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Lottery\Lottery\obj\Debug\net8.0\ref\Lottery.dll
