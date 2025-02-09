@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Lottery\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{AB575875-8D0E-4374-92B9-7C87126E999A}|Lottery\\Lottery.csproj|c:\\users\\mkh09\\vscodeprojects\\lottery\\lottery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB575875-8D0E-4374-92B9-7C87126E999A}|Lottery\\Lottery.csproj|solutionrelative:lottery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Lottery\\Lottery\\Program.cs",
-              "RelativeDocumentMoniker": "Lottery\\Program.cs",
-              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Lottery\\Lottery\\Program.cs",
-              "RelativeToolTip": "Lottery\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-07T12:31:55.512Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
