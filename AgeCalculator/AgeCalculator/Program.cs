@@ -14,7 +14,8 @@
             TimeSpan difference = DateTime.Now - birthday;
             int years = (int)Math.Floor(difference.TotalDays / 365.2425);
             int days = (int)Math.Floor(difference.TotalDays);
-            Console.WriteLine($"The customer is {years} + years old and {days}");
+            double age = (days - difference);
+            Console.WriteLine($"The customer is {years} + years old and {age}");
 
         }
     }
