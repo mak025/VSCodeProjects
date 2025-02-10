@@ -13,3 +13,11 @@ C:\Users\mkh09\VSCodeProjects\AgeCalculator\AgeCalculator\obj\Debug\net8.0\refin
 C:\Users\mkh09\VSCodeProjects\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.pdb
 C:\Users\mkh09\VSCodeProjects\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.genruntimeconfig.cache
 C:\Users\mkh09\VSCodeProjects\AgeCalculator\AgeCalculator\obj\Debug\net8.0\ref\AgeCalculator.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\refint\AgeCalculator.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.pdb
