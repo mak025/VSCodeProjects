@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\Christmas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\Christmas.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\Christmas.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\Christmas.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\Christmas.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\bin\Debug\net8.0\Christmas.exe
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\bin\Debug\net8.0\Christmas.deps.json
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\bin\Debug\net8.0\Christmas.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\bin\Debug\net8.0\Christmas.dll
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\bin\Debug\net8.0\Christmas.pdb
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\Christmas.dll
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\refint\Christmas.dll
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\Christmas.pdb
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\Christmas.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Christmas\Christmas\obj\Debug\net8.0\ref\Christmas.dll
