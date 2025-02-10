@@ -14,13 +14,13 @@
             //The random class specified here is used to generate a random number
             Random random = new Random();
             //Below codes specifies that the variable randomNumber holds the data "random number between 1 and 100" and will throw a random number between 1 and 100 whenever called
-            int randomNumber1 = random.Next(1, 100);
-            int randomNumber2 = random.Next(1, 100);
-            int randomNumber3 = random.Next(1, 100);
-            int randomNumber4 = random.Next(1, 100);
-            int randomNumber5 = random.Next(1, 100);
-            int randomNumber6 = random.Next(1, 100);
-            int jokerNumber = random.Next(1, 100);
+            int randomNumber1 = random.Next(1, 36);
+            int randomNumber2 = random.Next(1, 36);
+            int randomNumber3 = random.Next(1, 36);
+            int randomNumber4 = random.Next(1, 36);
+            int randomNumber5 = random.Next(1, 36);
+            int randomNumber6 = random.Next(1, 36);
+            int jokerNumber = random.Next(1, 36);
             Console.Write($"{randomNumber1} + ");
             Thread.Sleep(2000);
             Console.Write($"{randomNumber2} + ");
