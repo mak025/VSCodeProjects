@@ -12,3 +12,18 @@ C:\Users\mkh09\VSCodeProjects\AmericanFlag\AmericanFlag\obj\Debug\net8.0\refint\
 C:\Users\mkh09\VSCodeProjects\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.pdb
 C:\Users\mkh09\VSCodeProjects\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.genruntimeconfig.cache
 C:\Users\mkh09\VSCodeProjects\AmericanFlag\AmericanFlag\obj\Debug\net8.0\ref\AmericanFlag.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\bin\Debug\net8.0\AmericanFlag.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\bin\Debug\net8.0\AmericanFlag.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\bin\Debug\net8.0\AmericanFlag.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\bin\Debug\net8.0\AmericanFlag.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\bin\Debug\net8.0\AmericanFlag.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\refint\AmericanFlag.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\AmericanFlag.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AmericanFlag\AmericanFlag\obj\Debug\net8.0\ref\AmericanFlag.dll

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\CelsiusConverter\\",
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\CelsiusConverter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{485E6A82-E23D-41B8-9FD8-58F9CA7FF00B}|CelsiusConverter\\CelsiusConverter.csproj|c:\\users\\mkh09\\vscodeprojects\\celsiusconverter\\celsiusconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{485E6A82-E23D-41B8-9FD8-58F9CA7FF00B}|CelsiusConverter\\CelsiusConverter.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - variables\\celsiusconverter\\celsiusconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{485E6A82-E23D-41B8-9FD8-58F9CA7FF00B}|CelsiusConverter\\CelsiusConverter.csproj|solutionrelative:celsiusconverter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\CelsiusConverter\\CelsiusConverter\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\CelsiusConverter\\CelsiusConverter\\Program.cs",
               "RelativeDocumentMoniker": "CelsiusConverter\\Program.cs",
-              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\CelsiusConverter\\CelsiusConverter\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\CelsiusConverter\\CelsiusConverter\\Program.cs",
               "RelativeToolTip": "CelsiusConverter\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

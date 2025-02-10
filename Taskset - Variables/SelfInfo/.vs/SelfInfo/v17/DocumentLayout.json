@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\SelfInfo\\",
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\SelfInfo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72ED04DB-B1FF-406E-BA28-A0497B705563}|SelfInfo\\SelfInfo.csproj|c:\\users\\mkh09\\vscodeprojects\\selfinfo\\selfinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{72ED04DB-B1FF-406E-BA28-A0497B705563}|SelfInfo\\SelfInfo.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - variables\\selfinfo\\selfinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72ED04DB-B1FF-406E-BA28-A0497B705563}|SelfInfo\\SelfInfo.csproj|solutionrelative:selfinfo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\SelfInfo\\SelfInfo\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\SelfInfo\\SelfInfo\\Program.cs",
               "RelativeDocumentMoniker": "SelfInfo\\Program.cs",
-              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\SelfInfo\\SelfInfo\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\SelfInfo\\SelfInfo\\Program.cs",
               "RelativeToolTip": "SelfInfo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

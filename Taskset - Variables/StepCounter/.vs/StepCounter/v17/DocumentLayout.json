@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\StepCounter\\",
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\StepCounter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E777CBF-59C0-46F6-B94B-015D35979F35}|StepCounter\\StepCounter.csproj|c:\\users\\mkh09\\vscodeprojects\\stepcounter\\stepcounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E777CBF-59C0-46F6-B94B-015D35979F35}|StepCounter\\StepCounter.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - variables\\stepcounter\\stepcounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E777CBF-59C0-46F6-B94B-015D35979F35}|StepCounter\\StepCounter.csproj|solutionrelative:stepcounter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\StepCounter\\StepCounter\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\StepCounter\\StepCounter\\Program.cs",
               "RelativeDocumentMoniker": "StepCounter\\Program.cs",
-              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\StepCounter\\StepCounter\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\StepCounter\\StepCounter\\Program.cs",
               "RelativeToolTip": "StepCounter\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

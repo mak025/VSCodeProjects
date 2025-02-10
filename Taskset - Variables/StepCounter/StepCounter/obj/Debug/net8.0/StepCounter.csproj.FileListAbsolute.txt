@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\bin\Debug\net8.0\StepCounter.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\bin\Debug\net8.0\StepCounter.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\bin\Debug\net8.0\StepCounter.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\bin\Debug\net8.0\StepCounter.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\bin\Debug\net8.0\StepCounter.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\StepCounter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\StepCounter.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\StepCounter.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\StepCounter.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\StepCounter.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\StepCounter.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\refint\StepCounter.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\StepCounter.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\StepCounter.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\StepCounter\StepCounter\obj\Debug\net8.0\ref\StepCounter.dll

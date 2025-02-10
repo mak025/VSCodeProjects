@@ -12,3 +12,18 @@ C:\Users\mkh09\VSCodeProjects\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0
 C:\Users\mkh09\VSCodeProjects\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.pdb
 C:\Users\mkh09\VSCodeProjects\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.genruntimeconfig.cache
 C:\Users\mkh09\VSCodeProjects\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\ref\CelsiusConverter.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\bin\Debug\net8.0\CelsiusConverter.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\bin\Debug\net8.0\CelsiusConverter.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\bin\Debug\net8.0\CelsiusConverter.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\bin\Debug\net8.0\CelsiusConverter.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\bin\Debug\net8.0\CelsiusConverter.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\refint\CelsiusConverter.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\CelsiusConverter.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\CelsiusConverter\CelsiusConverter\obj\Debug\net8.0\ref\CelsiusConverter.dll

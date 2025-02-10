@@ -21,3 +21,10 @@ C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\ob
 C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.dll
 C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\refint\AgeCalculator.dll
 C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\bin\Debug\net8.0\AgeCalculator.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\AgeCalculator.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\AgeCalculator\AgeCalculator\obj\Debug\net8.0\ref\AgeCalculator.dll

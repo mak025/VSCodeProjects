@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkh09\\VSCodeProjects\\CelsiusConverter\\CelsiusConverter\\CelsiusConverter.csproj": {}
+    "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\CelsiusConverter\\CelsiusConverter\\CelsiusConverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkh09\\VSCodeProjects\\CelsiusConverter\\CelsiusConverter\\CelsiusConverter.csproj": {
+    "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\CelsiusConverter\\CelsiusConverter\\CelsiusConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkh09\\VSCodeProjects\\CelsiusConverter\\CelsiusConverter\\CelsiusConverter.csproj",
+        "projectUniqueName": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\CelsiusConverter\\CelsiusConverter\\CelsiusConverter.csproj",
         "projectName": "CelsiusConverter",
-        "projectPath": "C:\\Users\\mkh09\\VSCodeProjects\\CelsiusConverter\\CelsiusConverter\\CelsiusConverter.csproj",
+        "projectPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\CelsiusConverter\\CelsiusConverter\\CelsiusConverter.csproj",
         "packagesPath": "C:\\Users\\mkh09\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkh09\\VSCodeProjects\\CelsiusConverter\\CelsiusConverter\\obj\\",
+        "outputPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\CelsiusConverter\\CelsiusConverter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

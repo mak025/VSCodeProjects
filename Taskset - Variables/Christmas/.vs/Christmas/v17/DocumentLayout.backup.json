@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Christmas\\",
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\Christmas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39070A0B-D0C4-4F89-8F00-B025E0B0169F}|Christmas\\Christmas.csproj|c:\\users\\mkh09\\vscodeprojects\\christmas\\christmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39070A0B-D0C4-4F89-8F00-B025E0B0169F}|Christmas\\Christmas.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - variables\\christmas\\christmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39070A0B-D0C4-4F89-8F00-B025E0B0169F}|Christmas\\Christmas.csproj|solutionrelative:christmas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Christmas\\Christmas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\Christmas\\Christmas\\Program.cs",
               "RelativeDocumentMoniker": "Christmas\\Program.cs",
-              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Christmas\\Christmas\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Variables\\Christmas\\Christmas\\Program.cs",
               "RelativeToolTip": "Christmas\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T13:33:01.426Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

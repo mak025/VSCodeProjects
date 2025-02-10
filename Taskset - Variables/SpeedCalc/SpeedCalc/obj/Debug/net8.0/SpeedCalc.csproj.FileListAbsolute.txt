@@ -12,3 +12,18 @@ C:\Users\mkh09\VSCodeProjects\SpeedCalc\SpeedCalc\obj\Debug\net8.0\refint\SpeedC
 C:\Users\mkh09\VSCodeProjects\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.pdb
 C:\Users\mkh09\VSCodeProjects\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.genruntimeconfig.cache
 C:\Users\mkh09\VSCodeProjects\SpeedCalc\SpeedCalc\obj\Debug\net8.0\ref\SpeedCalc.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\bin\Debug\net8.0\SpeedCalc.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\bin\Debug\net8.0\SpeedCalc.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\bin\Debug\net8.0\SpeedCalc.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\bin\Debug\net8.0\SpeedCalc.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\bin\Debug\net8.0\SpeedCalc.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\refint\SpeedCalc.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\SpeedCalc.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Variables\SpeedCalc\SpeedCalc\obj\Debug\net8.0\ref\SpeedCalc.dll
