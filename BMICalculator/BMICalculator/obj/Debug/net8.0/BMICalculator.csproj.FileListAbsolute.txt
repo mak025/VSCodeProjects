@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\BMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\BMICalculator.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\BMICalculator.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\BMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\BMICalculator.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\bin\Debug\net8.0\BMICalculator.exe
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\bin\Debug\net8.0\BMICalculator.deps.json
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\bin\Debug\net8.0\BMICalculator.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\bin\Debug\net8.0\BMICalculator.dll
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\bin\Debug\net8.0\BMICalculator.pdb
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\BMICalculator.dll
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\refint\BMICalculator.dll
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\BMICalculator.pdb
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\BMICalculator.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\BMICalculator\BMICalculator\obj\Debug\net8.0\ref\BMICalculator.dll
