@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoinToss")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa6cc9762d8fa1a705856239b3231ecbe4dd0594")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dd3db62d00c9f13ee785318f43c795989a0e88c")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoinToss")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoinToss")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
