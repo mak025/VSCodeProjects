@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine("Task Start");
+            Console.ForegroundColor= ConsoleColor.White;
             Console.WriteLine("Enter the temperature of your freezer");
             string userInput = Console.ReadLine();
             double value = double.Parse(userInput);
