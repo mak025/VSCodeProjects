@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\bin\Debug\net8.0\GuessTheColor.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\bin\Debug\net8.0\GuessTheColor.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\bin\Debug\net8.0\GuessTheColor.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\bin\Debug\net8.0\GuessTheColor.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\bin\Debug\net8.0\GuessTheColor.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\GuessTheColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\GuessTheColor.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\GuessTheColor.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\GuessTheColor.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\GuessTheColor.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\GuessTheColor.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\refint\GuessTheColor.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\GuessTheColor.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\GuessTheColor.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\GuessTheColor\GuessTheColor\obj\Debug\net8.0\ref\GuessTheColor.dll

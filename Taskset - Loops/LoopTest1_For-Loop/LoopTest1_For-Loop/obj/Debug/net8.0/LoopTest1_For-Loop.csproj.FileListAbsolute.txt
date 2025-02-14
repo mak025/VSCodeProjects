@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\bin\Debug\net8.0\LoopTest1_For-Loop.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\bin\Debug\net8.0\LoopTest1_For-Loop.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\bin\Debug\net8.0\LoopTest1_For-Loop.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\bin\Debug\net8.0\LoopTest1_For-Loop.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\bin\Debug\net8.0\LoopTest1_For-Loop.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\LoopTest1_For-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\LoopTest1_For-Loop.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\LoopTest1_For-Loop.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\LoopTest1_For-Loop.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\LoopTest1_For-Loop.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\LoopTest1_For-Loop.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\refint\LoopTest1_For-Loop.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\LoopTest1_For-Loop.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\LoopTest1_For-Loop.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LoopTest1_For-Loop\LoopTest1_For-Loop\obj\Debug\net8.0\ref\LoopTest1_For-Loop.dll
