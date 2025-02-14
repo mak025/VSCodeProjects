@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\bin\Debug\net8.0\LightSwitch.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\bin\Debug\net8.0\LightSwitch.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\bin\Debug\net8.0\LightSwitch.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\bin\Debug\net8.0\LightSwitch.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\bin\Debug\net8.0\LightSwitch.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\LightSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\LightSwitch.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\LightSwitch.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\LightSwitch.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\LightSwitch.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\LightSwitch.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\refint\LightSwitch.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\LightSwitch.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\LightSwitch.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Loops\LightSwitch\LightSwitch\obj\Debug\net8.0\ref\LightSwitch.dll

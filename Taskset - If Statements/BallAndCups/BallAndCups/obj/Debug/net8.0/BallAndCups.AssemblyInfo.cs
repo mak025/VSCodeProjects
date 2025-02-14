@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BallAndCups")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ddbf12f76b09f4e70d7a39c117dbc5bb94b2870")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e40b3ae93d05da5ef85bf373fc4079cf42126089")]
 [assembly: System.Reflection.AssemblyProductAttribute("BallAndCups")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BallAndCups")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

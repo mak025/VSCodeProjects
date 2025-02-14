@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a1Pr2kWnda4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\AnimalSoundManager\\AnimalSoundManager\\AnimalSoundManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkh09\\.nuget\\packages\\system.windows.extensions\\9.0.2\\system.windows.extensions.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

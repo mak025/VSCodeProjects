@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scrabble", "Scrabble\Scrabble.csproj", "{CCCA8B93-B490-4268-BC92-9EE5730D1958}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCCA8B93-B490-4268-BC92-9EE5730D1958}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCCA8B93-B490-4268-BC92-9EE5730D1958}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCCA8B93-B490-4268-BC92-9EE5730D1958}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCCA8B93-B490-4268-BC92-9EE5730D1958}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00E50947-1263-4373-A18B-B7E9B09F0D45}
+	EndGlobalSection
+EndGlobal
