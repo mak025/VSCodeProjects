@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\source\\repos\\localhost_51975\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B15043B-AC73-1D9E-2AB5-C5DE9AB47690}|http://localhost:51975|c:\\users\\mkh09\\documents\\my web sites\\website_sysdev\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B15043B-AC73-1D9E-2AB5-C5DE9AB47690}|http://localhost:51975|c:\\users\\mkh09\\documents\\my web sites\\website_sysdev\\folder1\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HtmlPage.html",
+              "DocumentMoniker": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\folder1\\HtmlPage.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\folder1\\HtmlPage.html",
+              "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\folder1\\HtmlPage.html",
+              "RelativeToolTip": "..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\folder1\\HtmlPage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-17T12:20:07.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\index.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\index.html",
+              "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\index.html",
+              "RelativeToolTip": "..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\index.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-02-17T11:34:42.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

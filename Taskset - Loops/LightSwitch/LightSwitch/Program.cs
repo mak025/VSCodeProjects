@@ -32,6 +32,7 @@
                 if (input == "exit")
                 {
                     lights = true;
+                    Console.BackgroundColor = ConsoleColor.Black;
                 }
 
                 else
