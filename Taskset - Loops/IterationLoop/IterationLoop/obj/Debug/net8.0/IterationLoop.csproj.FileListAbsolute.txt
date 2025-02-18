@@ -1,0 +1,14 @@
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\bin\Debug\net8.0\IterationLoop.exe
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\bin\Debug\net8.0\IterationLoop.deps.json
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\bin\Debug\net8.0\IterationLoop.runtimeconfig.json
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\bin\Debug\net8.0\IterationLoop.dll
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\bin\Debug\net8.0\IterationLoop.pdb
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\obj\Debug\net8.0\IterationLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\obj\Debug\net8.0\IterationLoop.AssemblyInfoInputs.cache
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\obj\Debug\net8.0\IterationLoop.AssemblyInfo.cs
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\obj\Debug\net8.0\IterationLoop.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\obj\Debug\net8.0\IterationLoop.dll
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\obj\Debug\net8.0\refint\IterationLoop.dll
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\obj\Debug\net8.0\IterationLoop.pdb
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\obj\Debug\net8.0\IterationLoop.genruntimeconfig.cache
+C:\Users\mkh09\source\repos\IterationLoop\IterationLoop\obj\Debug\net8.0\ref\IterationLoop.dll

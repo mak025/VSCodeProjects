@@ -1,0 +1,14 @@
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\bin\Debug\net8.0\StepCounter_Attempt2.exe
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\bin\Debug\net8.0\StepCounter_Attempt2.deps.json
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\bin\Debug\net8.0\StepCounter_Attempt2.runtimeconfig.json
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\bin\Debug\net8.0\StepCounter_Attempt2.dll
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\bin\Debug\net8.0\StepCounter_Attempt2.pdb
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\obj\Debug\net8.0\StepCounter_Attempt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\obj\Debug\net8.0\StepCounter_Attempt2.AssemblyInfoInputs.cache
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\obj\Debug\net8.0\StepCounter_Attempt2.AssemblyInfo.cs
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\obj\Debug\net8.0\StepCounter_Attempt2.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\obj\Debug\net8.0\StepCounter_Attempt2.dll
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\obj\Debug\net8.0\refint\StepCounter_Attempt2.dll
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\obj\Debug\net8.0\StepCounter_Attempt2.pdb
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\obj\Debug\net8.0\StepCounter_Attempt2.genruntimeconfig.cache
+C:\Users\mkh09\source\repos\StepCounter_Attempt2\StepCounter_Attempt2\obj\Debug\net8.0\ref\StepCounter_Attempt2.dll

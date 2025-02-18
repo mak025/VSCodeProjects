@@ -17,6 +17,7 @@
             birthday = birthday.AddYears(years);
             difference = DateTime.Now - birthday;
             Console.WriteLine($"The customer is {years} + years old and {days}");
+            //Console.WriteLine(years);
 
         }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpeedCalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a308cbb3f4a5307656f2e820c7b5a2d7e0fab88a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a137a55cdb090e819927b2a29ef48e9855411cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpeedCalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpeedCalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
