@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LightSwitch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afae819709019cd50c082b4fc7737f5aa14541a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b280c682cca28563125fca22f9b576123ec3e55")]
 [assembly: System.Reflection.AssemblyProductAttribute("LightSwitch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LightSwitch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
