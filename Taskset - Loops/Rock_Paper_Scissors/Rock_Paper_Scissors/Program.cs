@@ -1,4 +1,6 @@
-﻿namespace Rock_Paper_Scissors
+﻿using System.Diagnostics;
+
+namespace Rock_Paper_Scissors
 {
     internal class Program
     {
@@ -13,49 +15,54 @@
             string Paper = "Paper";
             string Scissors = "Scissors";
 
-            Random random = new Random();
-            int color = random.Next(1, 3);
-
-            string selectedHand = "";
-
-            switch (color)
+            Stopwatch timer = new Stopwatch();
+            timer.Start();
+            for (; timer.Elapsed.TotalSeconds < 15;)
             {
-                case 1:
-                    selectedHand = Rock;
-                    break;
-                case 2:
-                    selectedHand = Paper;
-                    break;
-                case 3:
-                    selectedHand = Scissors;
-                    break;
-            }
 
-            int userAttempts = 1;
-            for (int i = 0; i < userAttempts; i++)
-            {
+                Random random = new Random();
+                int hand = random.Next(1, 4);
+
+                string selectedHand = "";
+
+                switch (hand)
+                {
+                    case 1:
+                        selectedHand = Rock;
+                        break;
+                    case 2:
+                        selectedHand = Paper;
+                        break;
+                    case 3:
+                        selectedHand = Scissors;
+                        break;
+                }
                 Console.Write("Type your choice here: ");
                 string input = Console.ReadLine();
                 Console.Write("Rock, ");
-                Thread.Sleep(1000);
+                Thread.Sleep(500);
                 Console.Write("Paper, ");
-                Thread.Sleep(1000);
-                Console.Write("Scissors");
-                Thread.Sleep(1000);
+                Thread.Sleep(500);
+                Console.WriteLine("Scissors");
+                Thread.Sleep(500);
 
 
-                if (selectedHand == input)
+                if (selectedHand == Rock && input == "Paper" || selectedHand == Paper && input == "Scissors" || selectedHand == Scissors && input == "Rock")
                 {
+                    Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("Correct! Sloppy High-Five granted!");
-                    i = userAttempts + 1;
+                    Console.ForegroundColor = ConsoleColor.White;
+
+                }
+                else if (selectedHand == input)
+                {
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine("Draw! Try again!");
+                    Console.ForegroundColor = ConsoleColor.White;
 
                 }
                 else
                 {
-                    Console.WriteLine("Wrong. Not sloppy High-Five for you!");
-
-                    if (i == userAttempts - 1)
-                    {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine($"Sorry {selectedHand} won");
                         Console.ForegroundColor = ConsoleColor.White;
@@ -64,4 +71,3 @@
             }
         }
     }
-}
