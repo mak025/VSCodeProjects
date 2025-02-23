@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AvgTemp_Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afae819709019cd50c082b4fc7737f5aa14541a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4b9a99edad316a08a7896f31814efea50a873e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("AvgTemp_Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AvgTemp_Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

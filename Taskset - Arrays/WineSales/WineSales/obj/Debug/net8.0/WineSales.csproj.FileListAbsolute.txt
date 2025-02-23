@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\bin\Debug\net8.0\WineSales.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\bin\Debug\net8.0\WineSales.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\bin\Debug\net8.0\WineSales.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\bin\Debug\net8.0\WineSales.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\bin\Debug\net8.0\WineSales.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\WineSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\WineSales.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\WineSales.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\WineSales.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\WineSales.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\WineSales.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\refint\WineSales.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\WineSales.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\WineSales.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\WineSales\WineSales\obj\Debug\net8.0\ref\WineSales.dll

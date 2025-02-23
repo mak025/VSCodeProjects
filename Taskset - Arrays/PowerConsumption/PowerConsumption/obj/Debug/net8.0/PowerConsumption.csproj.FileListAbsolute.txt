@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\bin\Debug\net8.0\PowerConsumption.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\bin\Debug\net8.0\PowerConsumption.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\bin\Debug\net8.0\PowerConsumption.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\bin\Debug\net8.0\PowerConsumption.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\bin\Debug\net8.0\PowerConsumption.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\PowerConsumption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\PowerConsumption.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\PowerConsumption.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\PowerConsumption.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\PowerConsumption.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\PowerConsumption.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\refint\PowerConsumption.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\PowerConsumption.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\PowerConsumption.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Arrays\PowerConsumption\PowerConsumption\obj\Debug\net8.0\ref\PowerConsumption.dll
