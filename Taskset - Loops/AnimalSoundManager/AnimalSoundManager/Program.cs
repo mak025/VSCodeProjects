@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Media;
-
 namespace AnimalSoundManager
 {
     internal class Program

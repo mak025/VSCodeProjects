@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AnimalSoundManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b280c682cca28563125fca22f9b576123ec3e55")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb663dda3cbace27fafc4d7098564ed501f33b57")]
 [assembly: System.Reflection.AssemblyProductAttribute("AnimalSoundManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AnimalSoundManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

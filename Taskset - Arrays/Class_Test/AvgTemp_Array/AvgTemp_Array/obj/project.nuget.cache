@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "4iXcCppxCn8=",
+=======
+  "dgSpecHash": "SnHi9I47Gac=",
+>>>>>>> Stashed changes
   "success": true,
   "projectFilePath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Arrays\\Class_Test\\AvgTemp_Array\\AvgTemp_Array\\AvgTemp_Array.csproj",
   "expectedPackageFiles": [],

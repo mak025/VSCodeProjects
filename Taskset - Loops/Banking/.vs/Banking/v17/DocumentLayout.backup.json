@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\Banking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30BF3320-995D-4811-A85F-9EDE71BB072A}|Banking\\Banking.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - loops\\banking\\banking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30BF3320-995D-4811-A85F-9EDE71BB072A}|Banking\\Banking.csproj|solutionrelative:banking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\Banking\\Banking\\Program.cs",
+              "RelativeDocumentMoniker": "Banking\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\Banking\\Banking\\Program.cs*",
+              "RelativeToolTip": "Banking\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T11:28:35.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
