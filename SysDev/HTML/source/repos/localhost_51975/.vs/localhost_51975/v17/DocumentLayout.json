@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\HTML\\source\\repos\\localhost_51975\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0B15043B-AC73-1D9E-2AB5-C5DE9AB47690}|http://localhost:51975|c:\\users\\mkh09\\documents\\my web sites\\website_sysdev\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -13,11 +13,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -27,10 +31,8 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\index.html",
               "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\index.html",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\index.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-17T11:34:42.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-17T11:34:42.506Z"
             }
           ]
         }
