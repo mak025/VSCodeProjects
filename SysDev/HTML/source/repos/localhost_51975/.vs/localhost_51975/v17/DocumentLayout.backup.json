@@ -4,18 +4,6 @@
   "Documents": [
     {
       "AbsoluteMoniker": "D:0:0:{0B15043B-AC73-1D9E-2AB5-C5DE9AB47690}|http://localhost:51975|c:\\users\\mkh09\\documents\\my web sites\\website_sysdev\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B15043B-AC73-1D9E-2AB5-C5DE9AB47690}|http://localhost:51975|c:\\users\\mkh09\\documents\\my web sites\\website_sysdev\\styles\\navbar.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B15043B-AC73-1D9E-2AB5-C5DE9AB47690}|http://localhost:51975|c:\\users\\mkh09\\documents\\my web sites\\website_sysdev\\styles\\navbarhideonscroll.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B15043B-AC73-1D9E-2AB5-C5DE9AB47690}|http://localhost:51975|c:\\users\\mkh09\\documents\\my web sites\\website_sysdev\\folder1\\htmlpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0B15043B-AC73-1D9E-2AB5-C5DE9AB47690}|http://localhost:51975|c:\\users\\mkh09\\documents\\my web sites\\website_sysdev\\styles\\css.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,63 +13,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "navbar.css",
-              "DocumentMoniker": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\styles\\navbar.css",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\styles\\navbar.css",
-              "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\styles\\navbar.css",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\styles\\navbar.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-19T10:36:59.713Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "navbarHideOnScroll.js",
-              "DocumentMoniker": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\styles\\navbarHideOnScroll.js",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\styles\\navbarHideOnScroll.js",
-              "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\styles\\navbarHideOnScroll.js",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\styles\\navbarHideOnScroll.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-02-19T09:58:03.919Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "css.css",
-              "DocumentMoniker": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\styles\\css.css",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\styles\\css.css",
-              "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\styles\\css.css",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\styles\\css.css",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-19T08:42:49.951Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HtmlPage.html",
-              "DocumentMoniker": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\folder1\\HtmlPage.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\folder1\\HtmlPage.html",
-              "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\folder1\\HtmlPage.html",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\folder1\\HtmlPage.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-17T12:20:07.262Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -91,7 +27,7 @@
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\index.html",
               "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\Website_SysDev\\index.html",
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Documents\\My Web Sites\\Website_SysDev\\index.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-02-17T11:34:42.506Z",
               "EditorCaption": ""
