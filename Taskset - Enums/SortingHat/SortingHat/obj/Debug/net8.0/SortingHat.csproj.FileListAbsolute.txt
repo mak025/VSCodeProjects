@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\bin\Debug\net8.0\SortingHat.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\bin\Debug\net8.0\SortingHat.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\bin\Debug\net8.0\SortingHat.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\bin\Debug\net8.0\SortingHat.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\bin\Debug\net8.0\SortingHat.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\SortingHat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\SortingHat.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\SortingHat.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\SortingHat.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\SortingHat.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\SortingHat.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\refint\SortingHat.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\SortingHat.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\SortingHat.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\SortingHat\SortingHat\obj\Debug\net8.0\ref\SortingHat.dll

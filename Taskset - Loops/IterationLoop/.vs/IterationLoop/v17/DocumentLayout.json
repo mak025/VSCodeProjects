@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mkh09\\source\\repos\\IterationLoop\\",
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\IterationLoop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1056EB5E-B14B-4549-8D42-FFECB91C939A}|IterationLoop\\IterationLoop.csproj|c:\\users\\mkh09\\source\\repos\\iterationloop\\iterationloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1056EB5E-B14B-4549-8D42-FFECB91C939A}|IterationLoop\\IterationLoop.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - loops\\iterationloop\\iterationloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1056EB5E-B14B-4549-8D42-FFECB91C939A}|IterationLoop\\IterationLoop.csproj|solutionrelative:iterationloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mkh09\\source\\repos\\IterationLoop\\IterationLoop\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\IterationLoop\\IterationLoop\\Program.cs",
               "RelativeDocumentMoniker": "IterationLoop\\Program.cs",
-              "ToolTip": "C:\\Users\\mkh09\\source\\repos\\IterationLoop\\IterationLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\IterationLoop\\IterationLoop\\Program.cs",
               "RelativeToolTip": "IterationLoop\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T09:09:14.344Z",
               "EditorCaption": ""

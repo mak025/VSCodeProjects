@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\bin\Debug\net8.0\Seasons.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\bin\Debug\net8.0\Seasons.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\bin\Debug\net8.0\Seasons.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\bin\Debug\net8.0\Seasons.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\bin\Debug\net8.0\Seasons.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\Seasons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\Seasons.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\Seasons.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\Seasons.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\Seasons.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\Seasons.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\refint\Seasons.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\Seasons.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\Seasons.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Enums\Seasons\Seasons\obj\Debug\net8.0\ref\Seasons.dll

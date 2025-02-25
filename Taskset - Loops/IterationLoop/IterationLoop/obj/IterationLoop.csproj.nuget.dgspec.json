@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mkh09\\source\\repos\\IterationLoop\\IterationLoop\\IterationLoop.csproj": {}
+    "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\IterationLoop\\IterationLoop\\IterationLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mkh09\\source\\repos\\IterationLoop\\IterationLoop\\IterationLoop.csproj": {
+    "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\IterationLoop\\IterationLoop\\IterationLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mkh09\\source\\repos\\IterationLoop\\IterationLoop\\IterationLoop.csproj",
+        "projectUniqueName": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\IterationLoop\\IterationLoop\\IterationLoop.csproj",
         "projectName": "IterationLoop",
-        "projectPath": "C:\\Users\\mkh09\\source\\repos\\IterationLoop\\IterationLoop\\IterationLoop.csproj",
+        "projectPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\IterationLoop\\IterationLoop\\IterationLoop.csproj",
         "packagesPath": "C:\\Users\\mkh09\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mkh09\\source\\repos\\IterationLoop\\IterationLoop\\obj\\",
+        "outputPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Loops\\IterationLoop\\IterationLoop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

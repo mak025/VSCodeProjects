@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Enums\\SortingHat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2697403-4E17-47C2-AA0D-07FAF73E6F70}|SortingHat\\SortingHat.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - enums\\sortinghat\\sortinghat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2697403-4E17-47C2-AA0D-07FAF73E6F70}|SortingHat\\SortingHat.csproj|solutionrelative:sortinghat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Enums\\SortingHat\\SortingHat\\Program.cs",
+              "RelativeDocumentMoniker": "SortingHat\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Enums\\SortingHat\\SortingHat\\Program.cs",
+              "RelativeToolTip": "SortingHat\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T09:12:20.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

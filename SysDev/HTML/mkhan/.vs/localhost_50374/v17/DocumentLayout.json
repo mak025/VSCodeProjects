@@ -1,52 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\HTML\\mkhan\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E965452E-DFB3-A676-5114-016809ABB173}|http://localhost:50374|c:\\users\\mkh09\\documents\\my web sites\\mkhan\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E965452E-DFB3-A676-5114-016809ABB173}|http://localhost:50374|c:\\users\\mkh09\\documents\\my web sites\\mkhan\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StyleSheet.css",
-              "DocumentMoniker": "C:\\Users\\mkh09\\Documents\\My Web Sites\\mkhan\\css\\StyleSheet.css",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\My Web Sites\\mkhan\\css\\StyleSheet.css",
-              "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\mkhan\\css\\StyleSheet.css",
-              "RelativeToolTip": "..\\..\\..\\..\\Documents\\My Web Sites\\mkhan\\css\\StyleSheet.css",
-              "ViewState": "AgIAABIAAAAAAAAAAAAqwE4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-02-24T14:08:27.232Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\mkh09\\Documents\\My Web Sites\\mkhan\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\Documents\\My Web Sites\\mkhan\\index.html",
-              "ToolTip": "C:\\Users\\mkh09\\Documents\\My Web Sites\\mkhan\\index.html",
-              "RelativeToolTip": "..\\..\\..\\..\\Documents\\My Web Sites\\mkhan\\index.html",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-02-24T13:51:29.586Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
