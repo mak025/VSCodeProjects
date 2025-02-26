@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Seasons")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6367a231a887907331f7505b6ffcfda0aa29acc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3494d790347dff3759ec81479dafd83ae8b397c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Seasons")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Seasons")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
