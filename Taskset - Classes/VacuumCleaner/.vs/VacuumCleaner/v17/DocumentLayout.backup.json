@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Classes\\VacuumCleaner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8403F4A-D9EA-4A73-AB73-FC89AC764F7E}|VacuumCleaner\\VacuumCleaner.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - classes\\vacuumcleaner\\vacuumcleaner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8403F4A-D9EA-4A73-AB73-FC89AC764F7E}|VacuumCleaner\\VacuumCleaner.csproj|solutionrelative:vacuumcleaner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Classes\\VacuumCleaner\\VacuumCleaner\\Program.cs",
+              "RelativeDocumentMoniker": "VacuumCleaner\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Classes\\VacuumCleaner\\VacuumCleaner\\Program.cs",
+              "RelativeToolTip": "VacuumCleaner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:38:58.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
