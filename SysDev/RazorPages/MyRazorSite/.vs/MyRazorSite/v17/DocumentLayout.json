@@ -27,7 +27,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MyRazorSite",
+              "Title": "MyRazorSite.csproj",
               "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\MyRazorSite.csproj",
               "RelativeDocumentMoniker": "MyRazorSite\\MyRazorSite.csproj",
               "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\MyRazorSite.csproj",
@@ -47,8 +47,7 @@
               "RelativeToolTip": "MyRazorSite\\Pages\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T11:56:03.631Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:56:03.631Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "MyRazorSite\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T11:53:21.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T11:53:21.8Z"
             }
           ]
         }
