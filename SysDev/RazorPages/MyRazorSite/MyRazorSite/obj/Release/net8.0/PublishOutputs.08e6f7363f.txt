@@ -1,0 +1,7 @@
+C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Release\net8.0\PubTmp\Out\MyRazorSite.exe
+C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Release\net8.0\PubTmp\Out\MyRazorSite.dll
+C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Release\net8.0\PubTmp\Out\MyRazorSite.deps.json
+C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Release\net8.0\PubTmp\Out\MyRazorSite.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Release\net8.0\PubTmp\Out\MyRazorSite.pdb

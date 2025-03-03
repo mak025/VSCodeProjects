@@ -1,0 +1,90 @@
+﻿*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Promt', sans-serif;
+}
+
+section {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 400px;
+    padding: 100px 20vw;
+}
+.blue {
+    background: #251ba8;
+}
+.red {
+    background: #dd3f31;
+}
+.pink {
+    background: #f30fda;
+}
+.dark {
+    background: #0f0f10;
+}
+
+.custom-shape-divider-top-red {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-red svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 150px;
+}
+
+.custom-shape-divider-top-red .shape-fill {
+    fill: #1c1c1c;
+}
+
+.custom-shape-divider-bottom-blue {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-blue svg {
+    position: relative;
+    display: block;
+    width: calc(132% + 1.3px);
+    height: 135px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-blue .shape-fill {
+    fill: #1c1c1c;
+}
+
+.spacer {
+    aspect-ratio: 960/300;
+    width: 100%;
+/*    margin-top: -40px;*/
+    bottom: 3000px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.layer1{
+    background-image: url('./svg/layer1.svg');
+}
+.layer2 {
+    background-image: url('./svg/layer2.svg');
+}
+.layer3 {
+    background-image: url('./svg/layer3.svg');
+    margin-bottom: -250px;
+}
