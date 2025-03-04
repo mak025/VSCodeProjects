@@ -23,6 +23,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< Updated upstream
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MyRazorSite\\wwwroot\\css\\site.css",
@@ -32,6 +33,29 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-03T23:24:15.962Z",
               "EditorCaption": ""
+=======
+              "Title": "MyRazorSite.csproj",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\MyRazorSite.csproj",
+              "RelativeDocumentMoniker": "MyRazorSite\\MyRazorSite.csproj",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\MyRazorSite.csproj",
+              "RelativeToolTip": "MyRazorSite\\MyRazorSite.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-03T12:09:36.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyRazorSite\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\Pages\\Index.cshtml",
+              "RelativeToolTip": "MyRazorSite\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T11:56:03.631Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
@@ -43,7 +67,11 @@
               "RelativeToolTip": "MyRazorSite\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+<<<<<<< Updated upstream
               "WhenOpened": "2025-03-03T21:04:17.722Z"
+=======
+              "WhenOpened": "2025-03-03T11:53:21.8Z"
+>>>>>>> Stashed changes
             }
           ]
         }
