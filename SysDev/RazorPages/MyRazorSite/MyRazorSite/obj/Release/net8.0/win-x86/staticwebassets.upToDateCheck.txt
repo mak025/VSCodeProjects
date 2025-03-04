@@ -1,6 +1,7 @@
 wwwroot\css\Cards.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\img\wallpapersden.com_mountains-in-dark-night_4717x2984.jpg
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

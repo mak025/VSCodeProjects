@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\wwwroot\\img\\wallpapersden.com_mountains-in-dark-night_4717x2984.jpg",
+      "PackagePath": "staticwebassets\\img\\wallpapersden.com_mountains-in-dark-night_4717x2984.jpg"
+    },
+    {
       "Id": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

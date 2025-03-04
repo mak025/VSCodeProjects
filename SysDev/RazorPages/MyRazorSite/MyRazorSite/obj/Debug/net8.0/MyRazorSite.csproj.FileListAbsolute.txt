@@ -32,3 +32,4 @@ C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Debu
 C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Debug\net8.0\MyRazorSite.pdb
 C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Debug\net8.0\MyRazorSite.genruntimeconfig.cache
 C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Debug\net8.0\ref\MyRazorSite.dll
+C:\Users\mkh09\VSCodeProjects\SysDev\RazorPages\MyRazorSite\MyRazorSite\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
