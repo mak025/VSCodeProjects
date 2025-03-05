@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4161C2DB-155D-4D61-AB97-CF9FB856A8A6}|MyRazorSite\\MyRazorSite.csproj|c:\\users\\mkh09\\vscodeprojects\\sysdev\\razorpages\\myrazorsite\\myrazorsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{4161C2DB-155D-4D61-AB97-CF9FB856A8A6}|MyRazorSite\\MyRazorSite.csproj|solutionrelative:myrazorsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4161C2DB-155D-4D61-AB97-CF9FB856A8A6}|MyRazorSite\\MyRazorSite.csproj|c:\\users\\mkh09\\vscodeprojects\\sysdev\\razorpages\\myrazorsite\\myrazorsite\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{4161C2DB-155D-4D61-AB97-CF9FB856A8A6}|MyRazorSite\\MyRazorSite.csproj|solutionrelative:myrazorsite\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4161C2DB-155D-4D61-AB97-CF9FB856A8A6}|MyRazorSite\\MyRazorSite.csproj|c:\\users\\mkh09\\vscodeprojects\\sysdev\\razorpages\\myrazorsite\\myrazorsite\\pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4161C2DB-155D-4D61-AB97-CF9FB856A8A6}|MyRazorSite\\MyRazorSite.csproj|solutionrelative:myrazorsite\\pages\\index1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4161C2DB-155D-4D61-AB97-CF9FB856A8A6}|MyRazorSite\\MyRazorSite.csproj|c:\\users\\mkh09\\vscodeprojects\\sysdev\\razorpages\\myrazorsite\\myrazorsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4161C2DB-155D-4D61-AB97-CF9FB856A8A6}|MyRazorSite\\MyRazorSite.csproj|solutionrelative:myrazorsite\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Index1.cshtml",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\Pages\\Index1.cshtml",
+              "RelativeDocumentMoniker": "MyRazorSite\\Pages\\Index1.cshtml",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\Pages\\Index1.cshtml",
+              "RelativeToolTip": "MyRazorSite\\Pages\\Index1.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-04T09:15:13.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MyRazorSite\\wwwroot\\css\\site.css",
               "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\wwwroot\\css\\site.css",
               "RelativeToolTip": "MyRazorSite\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAD4vw8AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-03T23:24:15.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyRazorSite\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MyRazorSite\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAARAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\SysDev\\RazorPages\\MyRazorSite\\MyRazorSite\\Pages\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "MyRazorSite\\Pages\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwE8AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-03T21:04:17.722Z"
+              "WhenOpened": "2025-03-03T21:04:17.722Z",
+              "EditorCaption": ""
             }
           ]
         }

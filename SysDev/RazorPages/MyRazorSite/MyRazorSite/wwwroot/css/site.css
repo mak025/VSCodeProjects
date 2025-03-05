@@ -13,7 +13,7 @@
     font-weight: 700; /* Bold */
     font-style: italic; /* Adds a stylish touch */
     position: absolute;
-    top: 80px; /* Adjust the value as needed to move the text up */
+    top: 60px; /* Adjust the value as needed to move the text up */
     left: 50%;
     transform: translateX(-50%);
     text-align: center;

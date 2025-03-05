@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Classes\\DeckOfCards\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48F7443-C441-45DD-B01B-B814B19E0045}|DeckOfCards\\DeckOfCards.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - classes\\deckofcards\\deckofcards\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48F7443-C441-45DD-B01B-B814B19E0045}|DeckOfCards\\DeckOfCards.csproj|solutionrelative:deckofcards\\deck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48F7443-C441-45DD-B01B-B814B19E0045}|DeckOfCards\\DeckOfCards.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - classes\\deckofcards\\deckofcards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48F7443-C441-45DD-B01B-B814B19E0045}|DeckOfCards\\DeckOfCards.csproj|solutionrelative:deckofcards\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Deck.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Classes\\DeckOfCards\\DeckOfCards\\Deck.cs",
+              "RelativeDocumentMoniker": "DeckOfCards\\Deck.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Classes\\DeckOfCards\\DeckOfCards\\Deck.cs*",
+              "RelativeToolTip": "DeckOfCards\\Deck.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:58:46.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Classes\\DeckOfCards\\DeckOfCards\\Program.cs",
+              "RelativeDocumentMoniker": "DeckOfCards\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Classes\\DeckOfCards\\DeckOfCards\\Program.cs",
+              "RelativeToolTip": "DeckOfCards\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:57:48.166Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

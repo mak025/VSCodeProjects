@@ -1,0 +1,15 @@
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\PlasticFantastic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\PlasticFantastic.AssemblyInfoInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\PlasticFantastic.AssemblyInfo.cs
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\PlasticFantastic.csproj.CoreCompileInputs.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\PlasticFantastic.sourcelink.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\bin\Debug\net8.0\PlasticFantastic.exe
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\bin\Debug\net8.0\PlasticFantastic.deps.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\bin\Debug\net8.0\PlasticFantastic.runtimeconfig.json
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\bin\Debug\net8.0\PlasticFantastic.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\bin\Debug\net8.0\PlasticFantastic.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\PlasticFantastic.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\refint\PlasticFantastic.dll
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\PlasticFantastic.pdb
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\PlasticFantastic.genruntimeconfig.cache
+C:\Users\mkh09\VSCodeProjects\Taskset - Classes\PlasticFantastic\PlasticFantastic\obj\Debug\net8.0\ref\PlasticFantastic.dll
