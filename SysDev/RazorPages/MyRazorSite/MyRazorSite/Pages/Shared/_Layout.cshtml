@@ -11,86 +11,21 @@
 </head>
 <body>
     <header>
-@*         <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container">
-                <a class="navbar-brand" asp-area="" asp-page="/Index">MKHANSEN</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav> *@
     </header>
     <div class="background">
         <div class="container">
             <main role="main" class="pb-3">
                 @RenderBody()
 
-                <!-- Card 1 -->
-                <div class="container">
-                    <div class="card">
-                        <div class="card__bg">
-                        </div>
-                        <div class="card__info">
-                            <h1 class="card__title">My Github <i class="fa fa-github" style="font-size:36px"></i></h1>
-                            <p class="card__desc">
-                                A collection of hands-on coding projects and exercises showcasing my journey through computer science education. This repository reflects my growth in programming, featuring practical implementations of concepts learned in my studies.
-                            </p>
-                        </div>
-                        <div class="card__btn-body">
-                            <a href="https://github.com/mak025/VSCodeProjects" class="card__btn">READ MORE</a>
-                        </div>
-                    </div>
-                    <!-- Card 1 -->
-                    <!-- Card 2 -->
-                    <div class="card">
-                        <div class="card__bg"></div>
-                        <div class="card__info">
-                            <h1 class="card__title">My Notion 💻</h1>
-                            <p class="card__desc">
-                                Your digital education companion featuring study tools, programming resources, and task management systems - all organized to maximize your learning journey.
-                            </p>
-                        </div>
-                        <div class="card__btn-body">
-                            <a href="https://jet-catsup-7c4.notion.site/Education-18ee6c09486e8009aadfded621cd7b64" class="card__btn">READ MORE</a>
-                        </div>
-                    </div>
-                    <!-- Card 2 -->
-                    <!-- Card 3 -->
-                    <div class="card">
-                        <div class="card__bg">
-                        </div>
-                        <div class="card__info">
-                            <h1 class="card__title">My Projects</h1>
-                            <p class="card__desc">
-                                Discover my personal projects and hobbies, where I explore infrastructure, server management, and website development. Learn about the passion driving my interests and the exciting work I do in my spare time.
-                            </p>
-                        </div>
-                        <div class="card__btn-body">
-                            <a href="" class="card__btn">READ MORE</a>
-                        </div>
-                    </div>
-                </div>
-                <!-- Card 3 -->
+               
             </main>
         </div>
     </div>
     <footer class="border-top footer text-muted">
         <div class="container">
-            &copy; 2025 - MyRazorSite - <a asp-area="" asp-page="/Privacy">Privacy</a>
+            &copy; 2025 - MKHANSEN - <a asp-area="" asp-page="/privacy">Privacy</a>
         </div>
     </footer>
-
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>

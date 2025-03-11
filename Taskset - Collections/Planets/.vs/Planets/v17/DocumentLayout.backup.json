@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Collections\\Planets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6B2895-98D2-48F9-BDB2-7DB94CA78FFB}|Planets\\Planets.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - collections\\planets\\planets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6B2895-98D2-48F9-BDB2-7DB94CA78FFB}|Planets\\Planets.csproj|solutionrelative:planets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF6B2895-98D2-48F9-BDB2-7DB94CA78FFB}|Planets\\Planets.csproj|c:\\users\\mkh09\\vscodeprojects\\taskset - collections\\planets\\planets\\planetsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF6B2895-98D2-48F9-BDB2-7DB94CA78FFB}|Planets\\Planets.csproj|solutionrelative:planets\\planetsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlanetsClass.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Collections\\Planets\\Planets\\PlanetsClass.cs",
+              "RelativeDocumentMoniker": "Planets\\PlanetsClass.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Collections\\Planets\\Planets\\PlanetsClass.cs",
+              "RelativeToolTip": "Planets\\PlanetsClass.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwBgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:31:06.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Collections\\Planets\\Planets\\Program.cs",
+              "RelativeDocumentMoniker": "Planets\\Program.cs",
+              "ToolTip": "C:\\Users\\mkh09\\VSCodeProjects\\Taskset - Collections\\Planets\\Planets\\Program.cs*",
+              "RelativeToolTip": "Planets\\Program.cs*",
+              "ViewState": "AgIAADsAAAAAAAAAAAAgwEQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:29:54.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
